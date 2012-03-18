@@ -1,3 +1,9 @@
+/* Most of the code i from PayPal API 
+ * www.plmsuggest.com takes no responsibility of code if it doesnot works
+ * The code is not tested!
+ * suggestions????? timepassplz@gmail.com
+ */
+
 <?php
 
 $environment = 'sandbox';	// or 'beta-sandbox' or 'live'
