@@ -1,0 +1,28 @@
+This code is modified version of CreateRecurringPaymentsProfile.php
+
+Disclaimer:  The author Bhupinder Golan takes no responsibility if any thing wrong/any loss / any damage happens after using the code . The code is shared so that if there are any suggestions / errors, they can be rectified.
+             
+Website: www.plmsuggest.com
+
+Purpose: The code can be used for subscriptions to be billed automatically. There will be one trail amount and rest of 
+         payment is deducted automatically from the buyers of the product on 1st of every month.
+
+Suppose three payments are as follows-
+           1) March 15th   -- 50$
+           2) April 1st    -- 50$
+           3) May 1st      -- 50$
+
+The code should work fine for this scenario.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THIS CODE IS NOT TESTED AT ALL. SO YOU NEED TO TEST IT THOROUGHLY BEFORE USING
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THE CODE TAKES YOUR PC / SERVER SYSTEM TIME TO DO CALCULATIONS!
+
+
+Suggestions/Modifications/Errors/Bugs/Comments ???? Send them to timepassplz@gmail.com
+
+Please do not spam the email though.
